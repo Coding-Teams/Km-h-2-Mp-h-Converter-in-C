@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606317615 source:c:\users\administrator\desktop\mp-h2km-h converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
